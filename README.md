@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # Recipes-MERN-app
 MERN stack application to pull recipes from spoonacular api and create user account and save recipes to favourites in MongoDB. 
-=======
+
 # react-recipes-app
 Ensure you have an API key from https://spoonacular.com/ 
 place the API key in the client/src/components/Config.js file
